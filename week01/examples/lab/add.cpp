@@ -1,6 +1,6 @@
 #include "add.h"
 
-int Add(int number1, int number2);
+long add(long a, long b)
 {
-    return n1 + n2;
+    return a+b;
 }
