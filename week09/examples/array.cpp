@@ -74,8 +74,8 @@ int main()
     };
 
     class1[1].printInfo();
-    delete class1;
-    //delete []class1;
+    // delete class1;
+    delete []class1;
 
 
     return 0;
